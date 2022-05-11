@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+}
+
+
+
+body {
+    background-image: url(./images/web-image.svg);
+    background-repeat: repeat;
+    background-size: cover;
+
+}
